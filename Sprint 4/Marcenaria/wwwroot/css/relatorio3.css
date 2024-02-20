@@ -1,0 +1,46 @@
+dt {
+    margin-top: 1rem;
+    font-size: 2rem;
+    font-weight: bold;
+    color: #20484C;
+    margin: 0 auto
+}
+
+dd {
+    font-size: 1.2rem;
+    color: grey;
+    margin: 0 auto
+}
+
+.main {
+    display: flex;
+    border-bottom: 2px solid #20484C;
+    margin: 0 auto
+}
+
+.relatorio {
+    align-items: center;
+    margin: 0 auto;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto
+}
+
+tr {
+    font-size: 1.5rem;
+    color: grey;
+    margin: 0 auto
+}
+
+th {
+    margin-top: 1rem;
+    font-size: 2rem;
+    font-weight: bold;
+    color: #20484C;
+    margin: 0 auto
+}

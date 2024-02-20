@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Marcenaria", "Marcenaria.csproj", "{EC0F8D87-14A6-4AD4-9966-B53DB9BFBA7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC0F8D87-14A6-4AD4-9966-B53DB9BFBA7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC0F8D87-14A6-4AD4-9966-B53DB9BFBA7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC0F8D87-14A6-4AD4-9966-B53DB9BFBA7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC0F8D87-14A6-4AD4-9966-B53DB9BFBA7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3CACD9E5-802E-46B2-86E6-C1696E3E7F5D}
+	EndGlobalSection
+EndGlobal
